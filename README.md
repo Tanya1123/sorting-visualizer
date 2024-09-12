@@ -8,11 +8,11 @@ A progressive web app built using React that is used to visualize classic sortin
 
 ## Purpose
 
-I wanted to improve my React skills and learn classic sorting algorithms. This project was a great way to achieve both the objectives mentioned earlier.
+Wanted to improve my React skills and learn classic sorting algorithms.
 
 ## Installation
 
-If you wish to run this app locally, clone this repo and install the dependencies.
+To run this app locally, clone this repo and install the dependencies.
 
 ```
 $ git clone https://github.com/Tanya1123/sort-visualizer.git
