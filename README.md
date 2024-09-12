@@ -1,6 +1,8 @@
 # Sort Visualizer
 
 A progressive web app built using React that is used to visualize classic sorting algorithms such as insertion sort, merge sort, quick sort, heap sort, etc.
+![image](https://github.com/user-attachments/assets/fa1ba7bd-c277-4132-80d3-db6d59405038)
+
 
 ## Purpose
 
