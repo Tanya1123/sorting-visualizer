@@ -1,34 +1,20 @@
 # Sort Visualizer
 
-This is a [progressive web app](https://developers.google.com/web/progressive-web-apps) built using React and is used to visualize classic sorting algorithms such as insertion sort, merge sort, quick sort, heap sort, etc.
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9b56ce4a-00e8-407c-b862-181d3dc7ee53/deploy-status)](https://app.netlify.com/sites/sort-visualizer/deploys)
-
-[![Sort Visualizer Demo](http://img.youtube.com/vi/JFjvVmvC3pQ/0.jpg)](http://www.youtube.com/watch?v=JFjvVmvC3pQ 'Sort Visualizer Demo')
+A progressive web app built using React that is used to visualize classic sorting algorithms such as insertion sort, merge sort, quick sort, heap sort, etc.
 
 ## Purpose
 
-I wanted to improve my skills with React and also learn classic sorting algorithms. This project turned out to be a great way to achieve both of the aforementioned objectives at the same time.
+I wanted to improve my React skills and learn classic sorting algorithms. This project was a great way to achieve both the objectives mentioned earlier.
 
 ## Installation
-
-The app is already deployed so you can play around with the final product using this [link](https://sort-visualizer.ramizrahman.com).
 
 If you wish to run this app locally, clone this repo and install the dependencies.
 
 ```
-$ git clone https://github.com/ramiz-rahman/sort-visualizer.git
+$ git clone https://github.com/Tanya1123/sort-visualizer.git
 $ cd sort-visualizer
 $ npm install
 ```
-
-### Learn More
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## App Conventions
 
